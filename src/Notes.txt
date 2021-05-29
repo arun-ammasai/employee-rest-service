@@ -1,0 +1,36 @@
+Section 1:
+==========
+1. Create DTO and Controllers
+2. Implement GET Method
+3. Implement POST Method
+4. Handling Response
+5. Specific Exception handling
+6. Overall Project Exception Handling
+7. Implement DELETE Method
+
+Section 2:
+==========
+1. Exception Handling
+2. Validation
+3. Implement Hateoas
+4. Content Negotiation
+
+Section 3 :
+==========
+Swagger Documentation
+http://localhost:8081/v2/api-docs
+
+Actuator - The Monitoring tool
+
+1. Starter Actuator - Collect all API details
+2. Hal Browser - To visualize the dat
+
+http://localhost:8081/actuator
+http://localhost:8081/browser/index.html
+
+Security
+
+
+
+
+
